@@ -2,7 +2,7 @@
 Mechanical & Sustainability Engineering Student: Dublin City University
 ## About Me
 My name is Tadhg Mc Donagh. I am currently studying Mechanical Engineering at Dublin City University. I have a strong interest in Space Technology and Exploration, Sustainable Engineering and . <br>
-My goal is to work in the Aerospace industry. Specifically in the Space Exploration Industry. I aim to help with the development of technology that can enable humanity's long term exploration of space. I have a particular interest in Spacecraft Systems, Human Habitation and Propulsion. <br>
+My goal is to work in the Aerospace industry. Specifically in the Space Exploration Industry. I aim to help with the development of technology that can enable humanity's long term exploration of space. I have a particular interest in Spacecraft Systems, Human Habitation and Propulsion.
 ## My Skills
 ### Engineering & Design
 - I have strong design skills
@@ -26,19 +26,3 @@ My goal is to work in the Aerospace industry. Specifically in the Space Explorat
 ## How To Contact Me
 - Email: [Tadhgmcd41@gmail.com](mailto:tadhgmcd41@gmail.com)
 - LinkedIn: [Tadhg Mc Donagh](https://www.linkedin.com/in/tadhg-mc-donagh-b7b2253bb)
-
-
-<!--
-**TadhgMcDonagh/TadhgMcDonagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
