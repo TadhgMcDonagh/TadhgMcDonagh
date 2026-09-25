@@ -10,7 +10,7 @@ My goal is to work in the Aerospace industry. Specifically in the Space Explorat
 - I enjoy problem solving and designing systems
 ### Programming
 - I am proficient in the python coding language 
-- I have intermediate skills in HTML, CSS and JavaScript.
+- I have intermediate skills in R, Maxima, HTML, CSS and JavaScript.
 ### Personal
 - Fluent in English & Irish
 - Beginner Level German and Mandarin Chinese
