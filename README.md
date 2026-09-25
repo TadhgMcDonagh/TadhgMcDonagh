@@ -23,6 +23,13 @@ My goal is to work in the Aerospace industry. Specifically in the Space Explorat
 - Constructed the rocket
 - Recorded the flight of the rocket
 - Compared calculations to actual flight
+### Data Analytics with Python and HTML
+- Found suitable dataset
+- Cleaned data
+- Visualised data
+- Analysed Data
+- Created webpage
+- Displayed data and visualisations on webpage
 ## How To Contact Me
 - Email: [Tadhgmcd41@gmail.com](mailto:tadhgmcd41@gmail.com)
 - LinkedIn: [Tadhg Mc Donagh](https://www.linkedin.com/in/tadhg-mc-donagh-b7b2253bb)
